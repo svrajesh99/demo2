@@ -1,9 +1,9 @@
 import './App.css';
-import Menu from './Components/Menu';
+import Images from './Component2/images';
 function App() {
   return (
     <div className="App">
-      <Menu/>
+      <Images/>
     </div>
   );
 }
